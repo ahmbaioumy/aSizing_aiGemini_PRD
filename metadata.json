@@ -1,0 +1,6 @@
+{
+  "name": "WFM Minimum-HC Sizing & Scheduling Engine (PRD v7.1)",
+  "description": "Contact center minimum headcount sizing, discrete-event simulation, roster optimization, and engineering governance platform compliant with PRD v7.1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
